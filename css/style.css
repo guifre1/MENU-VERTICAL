@@ -11,11 +11,11 @@ ul, ol {
   list-style:none;
 }
 
-.vertical-menu > li {
+.nav > li {
   float:left;
 }
 
-.vertical-menu li a {
+.nav li a {
   background-color:#000;
   color:#46e914;
   text-decoration:overline
@@ -23,25 +23,25 @@ ul, ol {
   display:block;
 }
 
-.vertical-menu li a:hover {
+.nav li a:hover {
   background-color:#434343;
 }
 
-.vertical-menu li ul {
+.nav li ul {
   display:none;
   position:absolute;
   min-width:140px;
 }
 
-.vertical-menu li:hover > ul {
+.nav li:hover > ul {
   display:block;
 }
 
-.vertical-menu li ul li {
+.nav li ul li {
   position:relative;
 } 
 
-.vertical-menu li ul li ul {
+.nav li ul li ul {
   right:-140px;
   top:0px;
 }       
