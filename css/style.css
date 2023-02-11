@@ -24,7 +24,7 @@ body {
   height: auto;
 }
 .cMENU{
-  background-color: aqua;
+  background-color: #ccc;
   overflow: hidden;
-  
+  width: 200px;
 }
