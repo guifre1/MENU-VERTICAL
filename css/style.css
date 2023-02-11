@@ -6,19 +6,19 @@ body {
   color: rgb(223, 44, 230);
   font-family: Courier New;
 }
-.MENU>li {
-  list-style:none;
-  width: 200px;
-  height: 20px;
-  overflow: hidden;
-  font-weight: 600;
-}
 .MENU li ul li{
   margin-left: 0px;
 } 
 .MENU1>li{
   font-weight: 300;
   list-style: none;
+}
+.MENU>li {
+  list-style:none;
+  width: 200px;
+  height: 20px;
+  overflow: hidden;
+  font-weight: 600;
 }
 .MENU>li:hover{
   height: auto;
