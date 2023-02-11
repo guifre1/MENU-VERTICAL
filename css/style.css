@@ -28,8 +28,8 @@ body {
 .MENU>li:hover{
   height: auto;
 }
-.cMENU{
+.tot{
   background-color: #ccc;
   overflow: hidden;
-  width: 200px;
+  width: 220px;
 }
