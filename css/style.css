@@ -6,5 +6,7 @@ body {
   color: bisque;
   font-family: Lucida Sans;
 }
-.MENU li a{
-  list-style: symbols(-);
+.MENU li {
+  list-style:none
+  border: 2px solid red;
+  width: 100px;
