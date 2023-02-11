@@ -9,6 +9,8 @@ body {
 .MENU>li {
   list-style:none;
   width: 200px;
+  height: 20px;
+  overflow: hidden;
   font-weight: 600;
 }
 .MENU li ul li{
@@ -17,4 +19,7 @@ body {
 .MENU1>li{
   font-weight: 300;
   list-style: none;
+}
+.MENU>li::hover{
+  height: auto;
 }
