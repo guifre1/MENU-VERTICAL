@@ -38,11 +38,31 @@ body {
   overflow: hidden;
   width: 250px;
 }
-.CAIXA{
+.CAIXAUN{
   width: 250px;
   height: 250px;
   margin-bottom: 10px;
   background: red;
+  font-size: 40px;
+  text-align: center;
+  line-height: 10px;
+ float: left;
+}
+.CAIXADOS{
+  width: 250px;
+  height: 250px;
+  margin-bottom: 10px;
+  background: green;
+  font-size: 40px;
+  text-align: center;
+  line-height: 10px;
+ float: left;
+}
+.CAIXATRES{
+  width: 250px;
+  height: 250px;
+  margin-bottom: 10px;
+  background:blue;
   font-size: 40px;
   text-align: center;
   line-height: 10px;
