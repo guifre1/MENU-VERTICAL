@@ -37,7 +37,4 @@ body {
   width: 250px;
   height:250px;
   background: red;
-  position: relative;
-  left:50px;
-  top:100px;
 }
