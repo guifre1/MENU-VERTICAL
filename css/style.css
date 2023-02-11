@@ -38,11 +38,12 @@ body {
   overflow: hidden;
   width: 250px;
 }
-#CAIXA1{
+.CAIXA{
   width: 250px;
-  height: 80px;
+  height: 250px;
+  margin-bottom: 20px;
   background: red;
-  position: absolute;
-  top:50;
-  left: 100;
+  font-size: 40px;
+  text-align: center;
+  line-height: 10px;
 }
