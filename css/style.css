@@ -19,7 +19,7 @@ body {
 }
 .MENU>li{
   list-style:none;
-  width: 500px;
+  width: 200px;
   height: 20px;
   overflow: hidden;
   font-weight: 600;
@@ -31,5 +31,5 @@ body {
 .tot{
   background-color: #ccc;
   overflow: hidden;
-  width: 250px;
+  width: 300px;
 }
