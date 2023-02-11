@@ -8,6 +8,14 @@ body {
 }
 .MENU li {
   list-style:none;
-  border: 2px solid red;
   width: 100px;
+}
+.MENU li ul li{
+  margin-left: 0px;
+} 
+.MENU>li{
+  font-weight: 600;
+}
+.MENU1>li{
+  font-weight: 300;
 }
