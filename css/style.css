@@ -39,6 +39,8 @@ body {
   height:250px;
   background-color: red;
   float: left;
+  left:20px;
+  top:20px;
 }
 #CAIXA2{
   margin-top: auto;
