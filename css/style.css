@@ -19,6 +19,7 @@ body {
   height: 20px;
   overflow: hidden;
   font-weight: 600;
+  transition: 2s;
 }
 .MENU>li:hover{
   height: auto;
