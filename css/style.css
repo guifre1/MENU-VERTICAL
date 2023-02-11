@@ -34,25 +34,10 @@ body {
   width: 250px;
 }
 #CAIXA1{
-  margin-top: auto;
   width: 250px;
   height:250px;
-  background-color: red;
+  background: red;
   position: relative;
   left:1000px;
   top:500px;
-}
-#CAIXA2{
-  margin-top: auto;
-  width: 250px;
-  height:250px;
-  background-color:greenyellow;
-  float: left;
-}
-#CAIXA3{
-  margin-top: auto;
-  width: 250px;
-  height:250px;
-  background-color: blue;
-  float: left;
 }
