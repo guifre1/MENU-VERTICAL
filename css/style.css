@@ -33,8 +33,9 @@ body {
   overflow: hidden;
   width: 250px;
 }
-.CAIXA1{
+#CAIXA1{
+  margin-top: auto;
   width: 250px;
   height:250px;
-  background: red;
+  background-color: red;
 }
