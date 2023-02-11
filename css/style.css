@@ -38,4 +38,19 @@ body {
   width: 250px;
   height:250px;
   background-color: red;
+  float: left;
+}
+#CAIXA2{
+  margin-top: auto;
+  width: 250px;
+  height:250px;
+  background-color: red;
+  float: left;
+}
+#CAIXA3{
+  margin-top: auto;
+  width: 250px;
+  height:250px;
+  background-color: red;
+  float: left;
 }
