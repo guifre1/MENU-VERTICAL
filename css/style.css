@@ -3,8 +3,8 @@ body {
 }
 .MENU li a{
   text-decoration: none;
-  color: rgb(250, 140, 6);
-  font-family: Lucida Sans;
+  color: rgb(223, 44, 230);
+  font-family: Courier New;
 }
 .MENU>li {
   list-style:none;
