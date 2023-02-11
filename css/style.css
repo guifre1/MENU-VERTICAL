@@ -39,6 +39,7 @@ body {
   height:250px;
   background-color: red;
   float: left;
+  position: relative;
   left:20px;
   top:20px;
 }
