@@ -39,9 +39,9 @@ body {
   width: 250px;
 }
 .CAIXA1 {
-  width: 250px;
+  width: 415px;
   height: 250px;
-  margin-bottom: 10px;
+  margin-bottom: auto;
   background: red;
   font-size: 40px;
   text-align: center;
@@ -49,9 +49,9 @@ body {
  float: left;
 }
 .CAIXA2 {
-  width: 250px;
+  width: 415px;
   height: 250px;
-  margin-bottom: 10px;
+  margin-bottom: auto;
   background: green;
   font-size: 40px;
   text-align: center;
@@ -59,9 +59,9 @@ body {
  float: left;
 }
 .CAIXA3 {
-  width: 250px;
+  width: 415px;
   height: 250px;
-  margin-bottom: 10px;
+  margin-bottom: auto;
   background:blue;
   font-size: 40px;
   text-align: center;
