@@ -39,7 +39,7 @@ body {
 #CAIXA1{
 
   background: red;
-  position: relative;
-  top:10px;
-  left: 50px;
+  position: absolute;
+  top:50;
+  left: 100;
 }
