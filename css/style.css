@@ -8,14 +8,13 @@ body {
 }
 .MENU>li {
   list-style:none;
-  width: 100px;
+  width: 200px;
+  font-weight: 600;
 }
 .MENU li ul li{
   margin-left: 0px;
 } 
-.MENU>li{
-  font-weight: 600;
-}
 .MENU1>li{
   font-weight: 300;
+  list-style: none;
 }
