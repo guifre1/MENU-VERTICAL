@@ -38,7 +38,7 @@ body {
   overflow: hidden;
   width: 250px;
 }
-.CAIXA1{
+.CAIXAa {
   width: 250px;
   height: 250px;
   margin-bottom: 10px;
@@ -48,7 +48,7 @@ body {
   line-height: 10px;
  float: left;
 }
-.CAIXA2{
+.CAIXAb {
   width: 250px;
   height: 250px;
   margin-bottom: 10px;
@@ -58,7 +58,7 @@ body {
   line-height: 10px;
  float: left;
 }
-.CAIXA3{
+.CAIXAc {
   width: 250px;
   height: 250px;
   margin-bottom: 10px;
