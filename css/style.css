@@ -11,7 +11,7 @@ body {
 } 
 .MENU1>li{
   font-weight: 300;
-  list-style-type: circle;
+  list-style:circle;
 }
 .MENU1>li>a:hover{
   color: red;
