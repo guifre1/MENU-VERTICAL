@@ -19,6 +19,8 @@ body {
 }
 .MENU>li>a:hover{
   color: green;
+  margin-left: 20px;
+
 }
 .MENU>li{
   list-style:none;
