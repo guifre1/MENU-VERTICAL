@@ -20,6 +20,6 @@ body {
   font-weight: 300;
   list-style: none;
 }
-.MENU>li::hover{
+.MENU>li:hover{
   height: auto;
 }
