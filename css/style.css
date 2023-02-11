@@ -6,7 +6,7 @@ body {
   color: rgb(250, 140, 6);
   font-family: Lucida Sans;
 }
-.MENU li {
+.MENU>li {
   list-style:none;
   width: 100px;
 }
