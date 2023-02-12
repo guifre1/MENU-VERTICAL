@@ -46,7 +46,7 @@ body {
   
 }
 .CAIXA1 {
-  width: 415px;
+  width: 447.5px;
   height: 250px;
   margin-bottom: auto;
   background: red;
@@ -56,7 +56,7 @@ body {
  float: left;
 }
 .CAIXA2 {
-  width: 415px;
+  width: 447.5px;
   height: 250px;
   margin-bottom: auto;
   background: green;
@@ -66,7 +66,7 @@ body {
  float: left;
 }
 .CAIXA3 {
-  width: 415px;
+  width: 447.5px;
   height: 250px;
   margin-bottom: auto;
   background:blue;
